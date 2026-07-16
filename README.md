@@ -123,6 +123,12 @@ emotion-detector/
 - Add a proper validation set / cross-validation and a confusion matrix for per-class performance
 - Wrap the trained model in a simple script or API for real-time predictions
 
+## 👤 Developer
+
+**Muhammad Kabeer Jawed**
+Feel free to connect or reach out with questions/suggestions.
+
+
 ## License
 
 No license specified yet — consider adding one (e.g., MIT) if you plan to share or accept contributions.
