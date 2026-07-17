@@ -118,7 +118,7 @@ emotion-detector/
 ## Possible Improvements
 
 - Map predicted integer labels back to emotion names for readable output
-- Try additional models (SVM, Naive Bayes, or a neural network / transformer-based classifier)
+- Try additional models (Naive Bayes, or a neural network / transformer-based classifier)
 - Use n-grams or word embeddings (Word2Vec, GloVe) instead of BoW/TF-IDF
 - Add a proper validation set / cross-validation and a confusion matrix for per-class performance
 - Wrap the trained model in a simple script or API for real-time predictions
